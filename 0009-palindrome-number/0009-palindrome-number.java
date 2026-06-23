@@ -1,17 +1,19 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String pal= String.valueOf(x);
-     String res = "";
-      
-        for(int i=pal.length()-1;i>=0;i--){
-            res=res+pal.charAt(i);
-        }
-     
-      return pal.equals(res);
-    }
 
-    public static void main (String [] args){
-         Solution s1=new  Solution();
-          System.out.println(s1.isPalindrome(121));
+        String str = Integer.toString(x);
+        String reversed = "";
+
+        for (int i = str.length() - 1; i >= 0; i--) {
+            reversed += str.charAt(i);
+        }
+
+        return str.equals(reversed);
+    }
+}
+class Main {
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        System.out.println(s.isPalindrome(121)); // true
     }
 }
