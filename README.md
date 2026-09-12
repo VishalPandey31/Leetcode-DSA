@@ -19,6 +19,7 @@
 | [0027-remove-element](https://github.com/VishalPandey31/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VishalPandey31/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VishalPandey31/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0605-can-place-flowers](https://github.com/VishalPandey31/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VishalPandey31/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/VishalPandey31/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
